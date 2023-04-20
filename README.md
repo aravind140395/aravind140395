@@ -1,5 +1,5 @@
 - 👋  Hi, I’m `@aravind140395`
-- 👀  I’m interested in Machine Learning
+- 👀  I’m interested in Machine Learning and Automation
 - 🌱  I’m currently learning ...
 - 💞️  I’m looking to collaborate on ...
 - 📫  2aravindramanan@gmail.com
